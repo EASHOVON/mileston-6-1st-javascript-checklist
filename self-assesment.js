@@ -14,7 +14,7 @@ const friendName = 'Alif Hossain';
 // */
 
 
-/////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
 const presentAddress = 'Uttara, Dhaka';
 const friendDetails = `My friend name is ${ friendName }. His present Address is ${ presentAddress }.`
 console.log(friendDetails);
